@@ -23,9 +23,3 @@ This Tableau project visualizes road accident data using multiple CSV files. The
 
   <img width="1598" height="796" alt="image" src="https://github.com/user-attachments/assets/671cdff2-e738-4045-b10c-fc7e704affdb" />
 
-
----
-
-
-
-Let me know if you want a version with screenshots or GitHub formatting.
